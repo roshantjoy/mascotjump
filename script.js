@@ -18,9 +18,9 @@ function jump(){
       "mascot/first.png"
   ]
   var imagearray=[
-      "obstacles/meet.png",
-      "obstacles/psd.png",
-      "obstacles/corona.png"
+      "Obstacles/meet.png",
+      "Obstacles/psd.png",
+      "Obstacles/corona.png"
   ]
   var i=0;
     

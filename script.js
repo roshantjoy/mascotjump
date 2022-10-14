@@ -116,8 +116,8 @@ document.addEventListener("keydown", (e) => {
 }); 
 
 document.addEventListener("touchstart", (e) => {
-    if(e.key === " ") {
+    
        jump();
      
-    }  
+     
   });

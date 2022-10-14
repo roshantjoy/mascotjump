@@ -1,0 +1,66 @@
+body,html{
+    
+    overflow: hidden;
+    height: 100%;
+}
+
+body{
+    background-image: url("bgm.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    font-family:  Helvetica, sans-serif;
+    font-size: 300%;
+    text-align: center;
+    padding-top: 2%;
+
+}
+img{
+    max-width:25%;
+    height:auto;
+}
+section{
+    text-align: center;
+}
+#one{
+    display: inline;
+    padding-right: 5%;
+}
+#two{
+    display: inline;
+    padding-left: 5%;
+}
+
+
+  
+  .center {
+    
+    text-align: center;
+    padding-top: 5%;
+   
+    
+  }
+a{
+    display: inline-block;
+    text-decoration: none;
+    
+    color: #ffffff;
+    background-color: rgb(28, 28, 141);
+    text-align: center;
+    padding:1%;
+    font-size: xx-large;
+    height: 10%;
+   
+    border-radius: 30px;
+    
+}
+ a:hover{
+  color: #8888f8;
+  background-color: #ffffff;
+    
+}
